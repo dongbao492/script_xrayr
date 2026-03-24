@@ -12,8 +12,14 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-projec
 # 一键安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/qtai2901/script_xrayr/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/dongbao492/script_xrayr/master/install.sh)
 ```
+# 1 chạm
+
+```
+bash <(curl -Ls https://raw.githubusercontent.com/dongbao492/script_xrayr/master/xrayr_one_stack.sh)
+```
+
 # Docker 安装
 
 ```
